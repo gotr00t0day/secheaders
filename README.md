@@ -1,5 +1,7 @@
 # secheaders
 
+![alt text](https://github.om/gotr00t0day/secheaders/blob/main/security-http-headers.png)
+
 # INSTALLATION
 
 ```bash
